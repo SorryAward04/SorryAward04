@@ -1,11 +1,10 @@
 # hi
 ## what i do
-- work in pharma diagnostics
+- work in diagnostics
 - study computer science
-## languages i work with
+## languages i have worked with
 - java
 - javascript
   - also: google apps script
 - python
-## other stuff
-wip
+- c
