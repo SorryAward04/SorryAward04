@@ -1,10 +1,20 @@
-# hi
-## what i do
-- work in diagnostics
-- study computer science
-## languages i have worked with
+# hi o/
+## about me
+i'm ali, i study computer science with a growing focus on IoT
+## my skills in the field
+### intermediate
 - java
-- javascript
-  - also: google apps script
+### beginner
 - python
-- c
+- google apps script (javascript)
+### minimal
+- SQL
+- actionscript
+- VBA
+- bash
+- C
+- powershell
+## my other hobbies
+- play indie games
+- ride my bike
+- eat the burger 🍔
